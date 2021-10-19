@@ -1,14 +1,14 @@
 {
-  "name": "@beyonk/google-fonts-webpack-plugin",
+  "name": "@alswl-org/google-fonts-webpack-plugin",
   "version": "1.7.0",
   "description": "Google Fonts Webpack plugin",
   "main": "src/index.js",
   "author": "Gabriela Seabra",
   "license": "ISC",
-  "homepage": "https://github.com/beyonk-adventures/google-fonts-webpack-plugin",
+  "homepage": "https://github.com/alswl/google-fonts-webpack-plugin",
   "repository": {
     "type": "git",
-    "url": "https://github.com/beyonk-adventures/google-fonts-webpack-plugin.git"
+    "url": "https://github.com/alswl/google-fonts-webpack-plugin.git"
   },
   "keywords": [
     "google",
