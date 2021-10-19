@@ -1,6 +1,6 @@
 {
   "name": "@alswl-org/google-fonts-webpack-plugin",
-  "version": "1.7.0",
+  "version": "1.7.0-proxy",
   "description": "Google Fonts Webpack plugin",
   "main": "src/index.js",
   "author": "Gabriela Seabra",
